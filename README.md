@@ -1,8 +1,34 @@
-# React + Vite
+Listagem de tarefas
+Descrição 📄
+Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de colocar em práticas a biblioteca de desenvolvimento de interfaces React JS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Visualizar o resultado:
+https://listadetarefaas.netlify.app/
 
-Currently, two official plugins are available:
+Como usar:
+Há 1 tarefa pré-definida como exemplo que você pode usar para apagar, editar ou mudar o status para testar, além de adicionar suas próprias tarefas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tecnologias 🚀
+Javascript
+React JS
+Vite
+React Router Dom
+Sass
+JSON Server
+Como rodar no seu computador🖥️
+Instale o Node.js e o Git. Então:
+# clone esse repositório
+$ git clone [https://github.com/VictorYooga/<desafio>.git]
+
+# acesse a pasta do projeto
+$ cd <desafio>
+
+# instale as dependências
+$ npm install
+
+# rode o server
+$ npm run server
+
+# abra outro terminal e rode o projeto
+$ npm run dev
+Acesse a aplicação
