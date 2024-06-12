@@ -1,6 +1,6 @@
 # Listagem de tarefas
 
-#Descrição 📄
+Descrição 📄
 
 Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de colocar em práticas a biblioteca de desenvolvimento de interfaces React JS.
 
