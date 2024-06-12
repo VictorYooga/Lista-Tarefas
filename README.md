@@ -43,4 +43,3 @@ $ npm run server
 # abra outro terminal e rode o projeto
 $ npm run dev
 ```
-- [Acesse a aplicação](http://localhost:5173)
