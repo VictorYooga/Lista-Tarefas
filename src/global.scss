@@ -1,0 +1,15 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.6rem;
+  color: rgba(255, 255, 255, 1);
+
+  margin: 0px;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+}
