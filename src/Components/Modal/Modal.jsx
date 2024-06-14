@@ -1,6 +1,5 @@
 import { useState } from "react";
 import "./Modal.scss";
-import CloseButton from "../CloseButton/CloseButton"
 
 function Modal(props) {
   const [todoInput, setTodoInput] = useState(
@@ -29,9 +28,6 @@ function Modal(props) {
 
   return (
     <div id="modal">
-      <div className="modal-close-button">
-        <CloseButton onClick={onClickNo} />
-      </div>
       <p id="title">
         {props.isEdit
           ? "Deseja editar esse item?"
