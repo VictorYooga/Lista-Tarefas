@@ -5,7 +5,7 @@ Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de col
 
 
 ### Visualizar o resultado:
-https://desafio4-dnc.netlify.app/
+https://listadetarefaas.netlify.app/
 
 
 ### Como usar:
