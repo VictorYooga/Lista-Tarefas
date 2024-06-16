@@ -35,4 +35,3 @@ $ npm run server
 $ npm run dev
 ```
 - [Acesse a aplicação](http://localhost:5173)
-- [Acesse a aplicação](http://localhost:5173)
